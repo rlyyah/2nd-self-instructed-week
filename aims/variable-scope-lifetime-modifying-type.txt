@@ -1,0 +1,8 @@
+    What's the difference between a global and local variable?
+    What are the pros and cons of using global variables?
+    What is the assignment operator?
+    What does the global keyword mean in Python?
+    What are constants?
+    What's the difference between mutable and immutable variable types?
+    What is type conversion? What's the difference between implicit and explicit type conversion?
+    How is string formatting done in Python?

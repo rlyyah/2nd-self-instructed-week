@@ -1,0 +1,17 @@
+    1.What is the difference between the list.sort() method and sorted() function?
+        We can call sort() method only on lists, but we can use sorted() function on other
+        objects like dictionaries or tulpes. Sort is a little bit faster but has less usage
+    2.How to sort in reverse (descending) order?
+        sort(reverse=True), sorted(obj, reverse=True)
+    3.How will Python sort a list of strings, such as ['this', 'is', 'a', 'sentence']? (Try it out!)
+        In alphabetical order of every element
+    4.How will Python sort a list of tuples, such as [(2, 'World'), (1, 'Hello')]?
+        It will sort by the first element of every tuple
+    5.How to sort a list of strings by length (from shortest to longest string)?
+        sorted(obj, key=lambda element: len(element))
+    6.How to sort a list of tuples by the second element?
+        sorted(tuple_obj, key=lambda element: element[2])
+        sorted(student_tuples, key=itemgetter(2))
+        sorted(student_objects, key=attrgetter('name_of_2nd_ele'))
+    7.What is a lambda expression?
+    8.What does it mean that Python sorting is stable?

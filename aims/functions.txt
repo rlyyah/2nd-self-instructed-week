@@ -1,0 +1,32 @@
+    What statement do we use to indicate the start of a function definition in Python?
+        def function_name():
+            #code here
+    How should you name a function?
+        you should always choose a function name which explains as simply as accurately as possible what the function does
+    How do you call a function in Python?
+        function_name()
+    How do you refer to a function without calling it in Python?
+        refer = function_name
+    Does the order of the function definitons matter in Python? Why?
+        you have to make sure that def of function is higher than call
+    What are input parameters?
+        
+    What is the difference between input parameters and local variables in Python?
+    What does the return keyword do in Python?
+    What if we don't assign the return value of a function to a variable in Python?
+    Can you return multiple values from a function in Python?
+    What does unpacking mean in Python?
+    What happens when you try to assign the result of a function which has no return statement to a variable in Python?
+    What is the call stack?
+    What do we call a recursion?
+    What is a stack overflow?
+    What is the function signature?
+        The combination of the function name and the number of parameters that it takes
+    Can you have two different functions with the same particular name defined in Python?
+    How do you make parameters optional in Python?
+    What is the difference between positional and keyword parameters in Python?
+        keyword parameters – we can explicitly specify the parameter names along with the values
+        print(make_greeting(title="Mr", name="John", surname="Smith"))
+        print(make_greeting("Mr"(positional), "John", surname="Smith"(keyword)))
+    What can we do by putting an * or a ** before a parameter name in the function signature in Python?
+    What can we do by putting an * or a ** before a sequence or dictionary variable when passing it as an argument to a function in Python?

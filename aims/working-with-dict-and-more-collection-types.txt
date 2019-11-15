@@ -1,0 +1,21 @@
+    1.How do we define a list literal in Python?
+    2.How can we reach the last element of a list easily in Python?
+    3.What is slicing in Python?
+    4.What does it mean that a list is mutable in Python?
+    5.What is the purpose of the in and not in membership operators in Python?
+    6.What do the following functions do in Python: len(), sum(), any(), all()?
+    7.What do the following methods do with lists in Python: append(), count(), extend(), index(), insert(), pop(), remove(), sort(), reverse()?
+    8.What do we call an in-place sort?
+    9.What is the difference between the sorted() function and the sort() method of a list in Python?
+    10.What arithmetic operators (+,*,-,/) can be used on lists in Python? What do they do?
+    11.What is a tuple in Python? How do we define a tuple literal in Python?
+    12.What is a set in Python? How do we define a set literal in Python?
+    13.What is a range in Python?
+    14.What is a dictionary in Python? How do we define a dictionary literal in Python?
+    15.How can we check whether a key is in a dictionary?
+    16.How can we check whether a value is in a dictionary?
+    17.What does the following methods do with dictionaries in Python: items(), keys(), values(), update(), get(), pop(), setdefault()? (you may have to perform a search and/or try it out for the last two one)
+    18.How can we convert a list into a set in Python?
+    19.How can we get the first character of a string in Python?
+    20.How can we check whether a string contains a single character in Python?
+    21.How can we create multi-dimensional sequences in Python?

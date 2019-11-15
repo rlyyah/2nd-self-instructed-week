@@ -1,0 +1,20 @@
+    1.What does character encoding mean? Why do we use it?
+        tells the computer how to interpret raw zeroes and ones into real characters.
+    2.What is Unicode?
+        Unicode Standard provides a unique number for every character, no matter what platform, device, application or language
+    3.What is UTF-8?
+        is a variable width character encoding capable of encoding all 1,112,064[nb 1] valid code points in Unicode using one to four 8-bit bytes.
+    4.How do you define strings in Python?
+        string_name = ''
+    5.How do you get the length of a string in Python?
+        len(string_name)
+    6.What does the + operator mean when used with strings in Python?
+        adding letter or words to the end of the string 
+        string_one = 'foo'
+        string_two = 'bar'
+        new_string = string_one + string_two # new_string = 'foobar' 
+    7.How do you format strings in Python with the format() function?
+        
+    8.What do the following methods do with strings in Python: splitlines(), split(), lower(), upper(), count()?
+    9.What is slicing? How does it work in Python?
+    10.What is the bytes data type in Python?
